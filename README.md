@@ -2,6 +2,8 @@
 
 Este projeto é uma **Minimal API em .NET**, organizada seguindo boas práticas de **Domain-Driven Design (DDD)**, **injeção de dependência**, **separação de camadas**, **validações**, além de conter um **projeto de testes unitários**.
 
+[![Imagem de capa](https://github.com/robsonosbor/asp-net-minimal-api/blob/main/screenshot-swagger.png)](/)
+
 ---
 
 ## 📌 Tecnologias Utilizadas
